@@ -1,4 +1,4 @@
-# Mineral-type-related-Variability-in-Microbial-Communities-in-Acid-Mine-Drainage
+# Mineral-type-related Microbiomes and Microbial-driven Biogeochemical Cycling in Acid Mine Drainage
 
 #!/bin/bash
 
@@ -16,7 +16,7 @@
 
 ####QC
 
-####1 
+#1 
 
 ####1.2 FastQC
 
